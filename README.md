@@ -1,44 +1,139 @@
-# 👋 Hi, I'm Rabin Pant
+Nice Rabin — your CV is much stronger now than the previous README version. Since you now have AWS certifications, cloud knowledge, Flask + React full-stack project, and IoT exposure, your GitHub README should reflect that growth.
 
-🎓 A passionate BSc (Hons) Computing student at Islington College  
-💻 I’ve completed hands-on academic projects in Java, Python, HTML/CSS, and JavaScript  
-🚀 Eager to grow as a developer and work on real-world applications  
-📍 In Kathmandu, Nepal
+Here’s a clean, professional, and opportunity-focused README tailored to your updated CV:
 
----
+👋 Hi, I'm Rabin Pant
 
-## 🛠️ Skills & Technologies
+🎓 BSc (Hons) Computing Student at Islington College
+💻 Aspiring App & Full-Stack Developer
+☁️ AWS Academy Certified | Cloud & IoT Enthusiast
+📍 Kathmandu, Nepal
 
-- **Languages:** Java, Python, JavaScript, SQL, CSS  
-- **Tools & Frameworks:** Git, VS Code, Java OOP, File I/O  
-- **Soft Skills:** Teamwork, Communication (English & Nepali), Problem Solving, Leadership  
+🚀 About Me
 
----
+I’m a motivated computing student with hands-on experience in full-stack web development, Java desktop applications, and cloud fundamentals.
 
-## 📚 Projects
+I enjoy building practical systems — from inventory platforms to management applications — focusing on clean architecture, authentication systems, and scalable design.
 
-###Web Application (Full Stack)
-•	Inventory management with Python Flask backend & React frontend. Features: JWT authentication, role-based access, real-time stock tracking, invoice generation. 🔗GitHub Link –  Inventory-Pro (Full Stack)
+Currently improving my skills in:
 
-### 🔹 Gym Membership Management System  
-A desktop application built in Java using OOP concepts. Features include GUI, user management, and subscription handling.  
-[View on GitHub](https://github.com/Robin0-max/JAVA-Gym-Membership-.git)
+Full-Stack Development (React + Backend APIs)
 
-### 🔹 Inventory Management System (Console-Based)  
-Python-based CLI application with file handling, invoicing, restocking, and sales features.  
-[View on GitHub](https://github.com/Robin0-max/Python-Inventory-System-.git)
+Cloud Computing (AWS)
 
-### 🔹 E-commerce Website  
-A responsive shopping site designed with HTML, CSS, and JavaScript as part of a group project.  
-[View Project](https://github.com/Robin0-max/Ecommerce-Website.git)
+Software Architecture & OOP
 
----
+Real-world deployment practices
 
-## 📫 Let's Connect!
+🛠️ Technical Skills
+💻 Programming Languages
 
-- 📧 Email: rabinpant194@gmail.com  
-- 🌐 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/rabin-pant-6b4559358)
----
+Java | Python | JavaScript | SQL (Oracle, MySQL) | C | CSS
 
-> *“Code is not just a language, it’s how we bring ideas to life.”*
+⚙️ Tools & Technologies
 
+React | Flask | Git & GitHub | AWS | Linux | Oracle VirtualBox
+Figma (UI/UX Design) | JWT Authentication | REST APIs
+
+🧠 Concepts
+
+Object-Oriented Programming (OOP)
+File Handling & Database Design
+Role-Based Access Control (RBAC)
+Cloud Foundations & IoT Systems
+
+📂 Featured Projects
+🔹 Inventory-Pro (Full Stack Web Application)
+
+Inventory management system built with Flask (Backend) + React (Frontend)
+
+Features:
+
+JWT Authentication
+
+Role-Based Access Control
+
+Real-time Stock Tracking
+
+Invoice Generation
+
+RESTful API Integration
+
+🔗 View Project Repository
+
+🔹 Gym Membership Management System (Java Desktop App)
+
+Built using Java OOP & Swing GUI
+
+Features:
+
+Member Registration
+
+Subscription Management
+
+Usage Tracking
+
+Clean OOP Structure
+
+🔗 View Project Repository
+
+🔹 Inventory Management System (Console-Based)
+
+Python CLI application with:
+
+File-based Stock Control
+
+Sales & Restocking System
+
+Invoice Generation
+
+Menu-Driven Interface
+
+🔗 View Project Repository
+
+🔹 Responsive E-commerce Website (Frontend)
+
+Group project built using:
+HTML | CSS | JavaScript
+
+Fully responsive UI
+
+Product layout & cart structure
+
+Clean interface design
+
+🔗 View Project Repository
+
+🏆 Certifications
+
+AWS Academy Graduate – Cloud Foundations
+
+AWS Academy – Data Engineering Foundations
+
+AWS Academy – Machine Learning Foundations
+
+AWS Academy – Generative AI Foundations
+
+Java OOP – LinkedIn Learning
+
+UI/UX with Figma Certification
+
+🎯 Career Goal
+
+Seeking internship opportunities in:
+
+App Development
+
+Full-Stack Development
+
+Cloud & Backend Development
+
+I am eager to contribute to real-world systems and continuously grow as a developer.
+
+📫 Connect With Me
+
+📧 rabinpant194@gmail.com
+
+🔗 LinkedIn
+🌐 Portfolio
+💻 GitHub
