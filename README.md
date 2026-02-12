@@ -1,139 +1,119 @@
-Nice Rabin — your CV is much stronger now than the previous README version. Since you now have AWS certifications, cloud knowledge, Flask + React full-stack project, and IoT exposure, your GitHub README should reflect that growth.
+<h1 align="center">Hi 👋, I'm Rabin Pant</h1>
+<h3 align="center">BSc (Hons) Computing Student | Aspiring Full-Stack & Cloud Developer</h3>
 
-Here’s a clean, professional, and opportunity-focused README tailored to your updated CV:
+<p align="center">
+  <a href="mailto:rabinpant194@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="#">Portfolio</a>
+</p>
 
-👋 Hi, I'm Rabin Pant
+---
 
-🎓 BSc (Hons) Computing Student at Islington College
-💻 Aspiring App & Full-Stack Developer
-☁️ AWS Academy Certified | Cloud & IoT Enthusiast
-📍 Kathmandu, Nepal
+## 🚀 About Me
 
-🚀 About Me
+- 🎓 BSc (Hons) Computing student at Islington College  
+- 💻 Passionate about Full-Stack Development & Cloud Computing  
+- ☁️ AWS Academy Certified (Cloud & ML Foundations)  
+- 🧠 Strong in OOP, REST APIs & Role-Based Systems  
+- 🌍 Based in Kathmandu, Nepal  
 
-I’m a motivated computing student with hands-on experience in full-stack web development, Java desktop applications, and cloud fundamentals.
+---
 
-I enjoy building practical systems — from inventory platforms to management applications — focusing on clean architecture, authentication systems, and scalable design.
+## 🛠️ Tech Stack
 
-Currently improving my skills in:
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-Full-Stack Development (React + Backend APIs)
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Cloud Computing (AWS)
+---
 
-Software Architecture & OOP
+## 📂 Featured Projects
 
-Real-world deployment practices
+### 🔹 Inventory-Pro (Full Stack Web App)
+> Flask (Backend) + React (Frontend)
 
-🛠️ Technical Skills
-💻 Programming Languages
+- 🔐 JWT Authentication  
+- 👥 Role-Based Access Control  
+- 📦 Real-time Stock Tracking  
+- 🧾 Invoice Generation  
+- 🔗 REST API Architecture  
 
-Java | Python | JavaScript | SQL (Oracle, MySQL) | C | CSS
+👉 Repository Link
 
-⚙️ Tools & Technologies
+---
 
-React | Flask | Git & GitHub | AWS | Linux | Oracle VirtualBox
-Figma (UI/UX Design) | JWT Authentication | REST APIs
+### 🔹 Gym Membership Management System (Java Desktop)
+> Java OOP + Swing GUI  
 
-🧠 Concepts
+- Member Registration  
+- Subscription Handling  
+- Usage Tracking  
+- Clean OOP Structure  
 
-Object-Oriented Programming (OOP)
-File Handling & Database Design
-Role-Based Access Control (RBAC)
-Cloud Foundations & IoT Systems
+👉 Repository Link
 
-📂 Featured Projects
-🔹 Inventory-Pro (Full Stack Web Application)
+---
 
-Inventory management system built with Flask (Backend) + React (Frontend)
+### 🔹 Inventory Management System (CLI)
+> Python Console Application  
 
-Features:
+- File-based Stock Control  
+- Sales & Restocking  
+- Invoice System  
+- Menu-driven Interface  
 
-JWT Authentication
+👉 Repository Link
 
-Role-Based Access Control
+---
 
-Real-time Stock Tracking
+### 🔹 Responsive E-commerce Website
+> HTML | CSS | JavaScript  
 
-Invoice Generation
+- Fully Responsive Design  
+- Product Layout & Cart Structure  
+- Clean UI Implementation  
 
-RESTful API Integration
+👉 Repository Link
 
-🔗 View Project Repository
+---
 
-🔹 Gym Membership Management System (Java Desktop App)
+## 🏆 Certifications
 
-Built using Java OOP & Swing GUI
+- AWS Academy – Cloud Foundations  
+- AWS Academy – Machine Learning Foundations  
+- AWS Academy – Data Engineering Foundations  
+- AWS Academy – Generative AI Foundations  
+- Java OOP – LinkedIn Learning  
+- UI/UX with Figma Certification  
 
-Features:
+---
 
-Member Registration
+## 📊 GitHub Stats
 
-Subscription Management
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-Usage Tracking
+---
 
-Clean OOP Structure
+## 🎯 Current Focus
 
-🔗 View Project Repository
+- Building scalable full-stack applications  
+- Strengthening backend & cloud deployment skills  
+- Preparing for internship opportunities  
 
-🔹 Inventory Management System (Console-Based)
+---
 
-Python CLI application with:
-
-File-based Stock Control
-
-Sales & Restocking System
-
-Invoice Generation
-
-Menu-Driven Interface
-
-🔗 View Project Repository
-
-🔹 Responsive E-commerce Website (Frontend)
-
-Group project built using:
-HTML | CSS | JavaScript
-
-Fully responsive UI
-
-Product layout & cart structure
-
-Clean interface design
-
-🔗 View Project Repository
-
-🏆 Certifications
-
-AWS Academy Graduate – Cloud Foundations
-
-AWS Academy – Data Engineering Foundations
-
-AWS Academy – Machine Learning Foundations
-
-AWS Academy – Generative AI Foundations
-
-Java OOP – LinkedIn Learning
-
-UI/UX with Figma Certification
-
-🎯 Career Goal
-
-Seeking internship opportunities in:
-
-App Development
-
-Full-Stack Development
-
-Cloud & Backend Development
-
-I am eager to contribute to real-world systems and continuously grow as a developer.
-
-📫 Connect With Me
-
-📧 rabinpant194@gmail.com
-
-🔗 LinkedIn
-🌐 Portfolio
-💻 GitHub
+> “Code is not just a language, it’s how we bring ideas to life.” 🚀
