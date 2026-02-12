@@ -49,7 +49,7 @@
 - 🧾 Invoice Generation  
 - 🔗 REST API Architecture  
 
-👉 Repository Link
+👉 Repository Link: https://github.com/Rabin-Pant/Inventory-Pro
 
 ---
 
@@ -61,7 +61,7 @@
 - Usage Tracking  
 - Clean OOP Structure  
 
-👉 Repository Link
+👉 Repository Link: https://github.com/Rabin-Pant/JAVA-Gym-Membership-
 
 ---
 
@@ -73,7 +73,7 @@
 - Invoice System  
 - Menu-driven Interface  
 
-👉 Repository Link
+👉 Repository Link: https://github.com/Rabin-Pant/Python-Inventory-System-
 
 ---
 
@@ -84,7 +84,7 @@
 - Product Layout & Cart Structure  
 - Clean UI Implementation  
 
-👉 Repository Link
+👉 Repository Link: https://github.com/Rabin-Pant/Ecommerce-Website
 
 ---
 
@@ -98,13 +98,6 @@
 - UI/UX with Figma Certification  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
