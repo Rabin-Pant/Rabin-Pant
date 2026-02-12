@@ -15,7 +15,10 @@
 
 ---
 
-## 📚 Academic Projects
+## 📚 Projects
+
+###Web Application (Full Stack)
+•	Inventory management with Python Flask backend & React frontend. Features: JWT authentication, role-based access, real-time stock tracking, invoice generation. 🔗GitHub Link –  Inventory-Pro (Full Stack)
 
 ### 🔹 Gym Membership Management System  
 A desktop application built in Java using OOP concepts. Features include GUI, user management, and subscription handling.  
