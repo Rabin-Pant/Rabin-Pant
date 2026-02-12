@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="mailto:rabinpant194@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="#">Portfolio</a>
+  <a href="www.linkedin.com/in/rabin-pant-6b4559358">LinkedIn</a> •
+  <a href="https://www.figma.com/design/rY89lUIE5Pk1xBh71gLHL7/Rabin-pant?node-id=144-440&t=6lUdXPEFOiaYbheW-0">Portfolio</a>
 </p>
 
 ---
