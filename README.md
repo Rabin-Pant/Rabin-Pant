@@ -37,66 +37,15 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Inventory-Pro (Full Stack Web App)
-> Flask (Backend) + React (Frontend)
-
-- 🔐 JWT Authentication  
-- 👥 Role-Based Access Control  
-- 📦 Real-time Stock Tracking  
-- 🧾 Invoice Generation  
-- 🔗 REST API Architecture  
-
-👉 Repository Link: https://github.com/Rabin-Pant/Inventory-Pro
-
----
-
-### 🔹 Gym Membership Management System (Java Desktop)
-> Java OOP + Swing GUI  
-
-- Member Registration  
-- Subscription Handling  
-- Usage Tracking  
-- Clean OOP Structure  
-
-👉 Repository Link: https://github.com/Rabin-Pant/JAVA-Gym-Membership-
-
----
-
-### 🔹 Inventory Management System (CLI)
-> Python Console Application  
-
-- File-based Stock Control  
-- Sales & Restocking  
-- Invoice System  
-- Menu-driven Interface  
-
-👉 Repository Link: https://github.com/Rabin-Pant/Python-Inventory-System-
-
----
-
-### 🔹 Responsive E-commerce Website
-> HTML | CSS | JavaScript  
-
-- Fully Responsive Design  
-- Product Layout & Cart Structure  
-- Clean UI Implementation  
-
-👉 Repository Link: https://github.com/Rabin-Pant/Ecommerce-Website
-
----
-
 ## 🏆 Certifications
 
-- AWS Academy – Cloud Foundations  
-- AWS Academy – Machine Learning Foundations  
-- AWS Academy – Data Engineering Foundations  
-- AWS Academy – Generative AI Foundations  
-- Java OOP – LinkedIn Learning  
-- UI/UX with Figma Certification  
-
----
+- AWS Academy – Cloud Foundations  - Training Badg
+- AWS Academy – Machine Learning Foundations  - Training Badg
+- AWS Academy – Machine Learning for Natural Language Processing  - Training Badg
+- AWS Academy – Data Engineering Foundations  - Training Badg 
+- AWS Academy – Generative AI Foundations  - Training Badg
+- Java OOP – LinkedIn Learning  - Training Badg 
+- UI/UX with Figma Certification  - Training Badg 
 
 ---
 
