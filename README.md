@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabin Pant</h1>
-<h3 align="center">BSc (Hons) Computing Student | Aspiring Full-Stack & Cloud Developer</h3>
+<h3 align="center">BSc (Hons) Computing Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:rabinpant194@gmail.com">📧 Email</a> •
