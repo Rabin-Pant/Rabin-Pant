@@ -52,7 +52,7 @@
 ## 📊 Stats & Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2D79F0/Rabin-Pant" alt="Rabin's GitHub Contribution Chart" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabin-Pant&theme=tokyonight" alt="Profile Summary" width="98%" />
 </p>
 
 <p align="center">
