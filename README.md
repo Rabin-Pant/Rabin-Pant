@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2D79F0&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabin+Pant;Full-Stack+Developer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2D79F0&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabin+Pant;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">BSc (Hons) Computing Student | Aspiring Full-Stack Developer</h3>
@@ -22,34 +22,27 @@
 
 ---
 
-## 📈 GitHub Activity (Line + Bar Graph)
+## 📈 GitHub Contributions
 
-<!-- This shows a beautiful line/area chart of your contribution activity over time -->
+<!-- Real contribution activity graph — shows daily commits over the last year -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabinPant&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Timeline%20(Line%20%2B%20Bar)" width="95%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabinPant&theme=react-dark&area=true&hide_border=true&custom_title=Rabin%27s%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
   </a>
 </p>
 
-<!-- Combined stats: commits, PRs, issues → visual activity summary -->
+<!-- Commit count, PRs, issues, stars | Coding streak & longest active period -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RabinPant&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D79F0&icon_color=2D79F0&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabinPant&theme=radical&hide_border=true&background=0d1117&ring=2D79F0&fire=2D79F0&currStreakLabel=2D79F0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RabinPant&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D79F0&icon_color=2D79F0&text_color=c9d1d9" width="420" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=RabinPant&theme=radical&hide_border=true&background=0d1117&ring=2D79F0&fire=2D79F0&currStreakLabel=2D79F0" width="420" alt="GitHub Streak" />
 </p>
-
-### 🔥 What this shows:
-- **Line + Area Graph** above → your daily/weekly contributions (like a bar/line chart of activity)
-- **Stats Card (left)** → total commits, PRs, issues, and repos (bar-scale visual)
-- **Streak Card (right)** → your longest coding streak & total contributions
-
-> 💡 *These charts update automatically using live GitHub data. Replace `RabinPant` with your username if needed.*
 
 ---
 
-## 💎 Pie Chart – Language Distribution
+## 💎 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabinPant&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&title_color=2D79F0&text_color=c9d1d9" width="80%" alt="Language Pie Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabinPant&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=2D79F0&text_color=c9d1d9&langs_count=8" width="420" alt="Top Languages" />
 </p>
 
 ---
@@ -92,12 +85,12 @@
 
 ---
 
-> “Code is not just a language, it’s how we bring ideas to life.” 🚀
+> "Code is not just a language, it's how we bring ideas to life." 🚀
 
 <!-- 
   ✨ Dynamic data sources: 
-  - Activity graph: https://github.com/Ashutosh00710/github-readme-activity-graph
-  - Stats + Pie chart: https://github.com/anuraghazra/github-readme-stats
-  - Streak stats: https://github.com/DenverCoder1/github-readme-streak-stats
+  - Contribution graph: https://github.com/Ashutosh00710/github-readme-activity-graph
+  - Stats card: https://github.com/anuraghazra/github-readme-stats
+  - Streak stats: https://github.com/DenverCoder1/github-readme-streak-stats (hosted on demolab.com)
   - Typing animation: https://github.com/DenverCoder1/readme-typing-svg
 -->
