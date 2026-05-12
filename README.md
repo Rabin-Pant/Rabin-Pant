@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2D79F0&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabin+Pant;Full-Stack+Developer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2D79F0&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabin+Pant;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">BSc (Hons) Computing Student | Aspiring Full-Stack Developer</h3>
@@ -49,7 +49,7 @@
 ## 💎 Pie Chart – Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabinPant&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&title_color=2D79F0&text_color=c9d1d9" width="80%" alt="Language Pie Chart" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabinPant&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2D79F0&text_color=c9d1d9" width="80%" alt="Top Languages" />
 </p>
 
 ---
