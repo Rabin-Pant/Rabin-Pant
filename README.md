@@ -22,34 +22,40 @@
 
 ---
 
-## 📈 GitHub Activity (Line + Bar Graph)
+## 📈 REAL-TIME Contribution Activity
 
-<!-- This shows a beautiful line/area chart of your contribution activity over time -->
+<!-- Shows your ACTUAL commit history including today's commits -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabinPant&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Timeline%20(Line%20%2B%20Bar)" width="95%" alt="Activity Graph"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabinPant&theme=github_dark" width="95%" alt="Real-time Contribution Chart"/>
 </p>
 
-<!-- Combined stats: commits, PRs, issues → visual activity summary -->
+<!-- Daily commit streak with REAL counts -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RabinPant&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D79F0&icon_color=2D79F0&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabinPant&theme=radical&hide_border=true&background=0d1117&ring=2D79F0&fire=2D79F0&currStreakLabel=2D79F0" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabinPant&theme=dark&hide_border=true&background=0d1117&ring=2D79F0&fire=2D79F0&currStreakLabel=2D79F0&stroke=2D79F0" width="80%" />
 </p>
 
-### 🔥 What this shows:
-- **Line + Area Graph** above → your daily/weekly contributions (like a bar/line chart of activity)
-- **Stats Card (left)** → total commits, PRs, issues, and repos (bar-scale visual)
-- **Streak Card (right)** → your longest coding streak & total contributions
-
-> 💡 *These charts update automatically using live GitHub data. Replace `RabinPant` with your username if needed.*
+<!-- Activity Stats Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabinPant&theme=github_dark&utcOffset=5.45" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RabinPant&theme=github_dark" width="45%" />
+</p>
 
 ---
 
-## 💎 Pie Chart – Language Distribution
+## 🥧 Language Distribution (Real from your repos)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabinPant&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&title_color=2D79F0&text_color=c9d1d9" width="80%" alt="Language Pie Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RabinPant&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RabinPant&theme=github_dark" width="45%" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RabinPant&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D79F0&icon_color=2D79F0&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabinPant&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2D79F0&text_color=c9d1d9" width="48%" />
 </p>
 
 ---
@@ -74,30 +80,47 @@
 
 ## 🏆 Certifications
 
-- AWS Academy – Cloud Foundations – Training Badge  
-- AWS Academy – Machine Learning Foundations – Training Badge  
-- AWS Academy – Machine Learning for Natural Language Processing – Training Badge  
-- AWS Academy – Data Engineering Foundations – Training Badge  
-- AWS Academy – Generative AI Foundations – Training Badge  
-- Java OOP – LinkedIn Learning – Training Badge  
-- UI/UX with Figma Certification – Training Badge  
+- ✅ AWS Academy – Cloud Foundations - Training Badge
+- ✅ AWS Academy – Machine Learning Foundations - Training Badge
+- ✅ AWS Academy – Machine Learning for Natural Language Processing - Training Badge
+- ✅ AWS Academy – Data Engineering Foundations - Training Badge
+- ✅ AWS Academy – Generative AI Foundations - Training Badge
+- ✅ Java OOP – LinkedIn Learning - Training Badge
+- ✅ UI/UX with Figma Certification - Training Badge
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable full-stack applications  
-- Strengthening backend & cloud deployment skills  
-- Preparing for internship opportunities  
+- 🚀 Building scalable full-stack applications  
+- ☁️ Strengthening backend & cloud deployment skills  
+- 💼 Preparing for internship opportunities  
+
+---
+
+## 📈 Weekly Activity Breakdown
+
+<!-- Contribution heatmap showing daily activity -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/RabinPant" alt="RabinPant's Github Contribution Chart" width="90%"/>
+</p>
 
 ---
 
 > “Code is not just a language, it’s how we bring ideas to life.” 🚀
 
+---
+
+## 🔄 Auto-Update Information
+
+*These stats update automatically every 30-60 minutes and show your REAL commit history including today's activity.*
+
 <!-- 
-  ✨ Dynamic data sources: 
-  - Activity graph: https://github.com/Ashutosh00710/github-readme-activity-graph
-  - Stats + Pie chart: https://github.com/anuraghazra/github-readme-stats
-  - Streak stats: https://github.com/DenverCoder1/github-readme-streak-stats
-  - Typing animation: https://github.com/DenverCoder1/readme-typing-svg
+  📊 Data Sources (Real-time):
+  - Profile Summary: https://github-profile-summary-cards.vercel.app
+  - Streak Stats: https://github-readme-streak-stats.herokuapp.com
+  - Contribution Chart: https://ghchart.rshah.org
+  - Stats Cards: https://github-readme-stats.vercel.app
+  
+  💡 Note: Replace 'RabinPant' with your GitHub username if different
 -->
