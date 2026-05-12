@@ -1,81 +1,66 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2D79F0&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Rabin+Pant;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-  BSc (Hons) Computing Student | Aspiring Full-Stack Developer
-</h3>
+<h1 align="center">Hi 👋, I'm Rabin Pant</h1>
+<h3 align="center">BSc (Hons) Computing Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:rabinpant194@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/rabin-pant-6b4559358">🔗 LinkedIn</a> •
-  <a href="https://www.figma.com/design/rY89lUIE5Pk1xBh71gLHL7/Rabin-pant?node-id=144-440&t=6lUdXPEFOiaYbheW-0">🎨 Portfolio</a>
+  <a href="www.linkedin.com/in/rabin-pant-6b4559358">LinkedIn</a> •
+  <a href="https://www.figma.com/design/rY89lUIE5Pk1xBh71gLHL7/Rabin-pant?node-id=144-440&t=6lUdXPEFOiaYbheW-0">Portfolio</a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 BSc (Hons) Computing student at Islington College
-- 💻 Passionate about Full-Stack Development & Cloud Computing
-- ☁️ AWS Academy Certified (Cloud & ML Foundations)
-- 🧠 Strong in OOP, REST APIs & Role-Based Systems
-- 🌍 Based in Kathmandu, Nepal
+- 🎓 BSc (Hons) Computing student at Islington College  
+- 💻 Passionate about Full-Stack Development & Cloud Computing  
+- ☁️ AWS Academy Certified (Cloud & ML Foundations)  
+- 🧠 Strong in OOP, REST APIs & Role-Based Systems  
+- 🌍 Based in Kathmandu, Nepal  
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Activity (Line + Bar Graph)
+
+<!-- REAL-TIME line/bar chart of your contribution activity -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RabinPant/RabinPant/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RabinPant/RabinPant/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RabinPant/RabinPant/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<!-- Shows your ACTUAL commit history including today's commits -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabinPant&theme=github_dark" width="100%" alt="Real-time Contribution Chart"/>
+</p>
+
+<!-- Daily commit streak with REAL counts -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabinPant&theme=dark&hide_border=true&background=0d1117&ring=2D79F0&fire=2D79F0&currStreakLabel=2D79F0" width="80%" />
+</p>
+
+---
+
+## 💎 Pie Chart – Language Distribution
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rabinpant&theme=react-dark&hide_border=true&area=true"
-    width="95%"
-    alt="Activity Graph"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rabinpant&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2D79F0&icon_color=2D79F0&text_color=c9d1d9"
-    width="48%"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rabinpant&theme=radical&hide_border=true&background=0d1117&ring=2D79F0&fire=2D79F0&currStreakLabel=2D79F0"
-    width="48%"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RabinPant&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RabinPant&theme=github_dark" width="45%" />
 </p>
 
 ---
 
-# 💻 Most Used Languages
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabinpant&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2D79F0&text_color=c9d1d9"
-    width="50%"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
-
-## ⚙️ Frameworks & Tools
-
+### ⚙️ Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,44 +69,24 @@
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
-- AWS Academy – Cloud Foundations
-- AWS Academy – Machine Learning Foundations
-- AWS Academy – Machine Learning for NLP
-- AWS Academy – Data Engineering Foundations
-- AWS Academy – Generative AI Foundations
-- Java OOP – LinkedIn Learning
-- UI/UX with Figma Certification
-
----
-
-# 🎯 Current Focus
-
-- Building scalable full-stack applications
-- Strengthening backend & cloud deployment skills
-- Preparing for internship opportunities
+- AWS Academy – Cloud Foundations - Training Badge
+- AWS Academy – Machine Learning Foundations - Training Badge
+- AWS Academy – Machine Learning for Natural Language Processing - Training Badge
+- AWS Academy – Data Engineering Foundations - Training Badge
+- AWS Academy – Generative AI Foundations - Training Badge
+- Java OOP – LinkedIn Learning - Training Badge
+- UI/UX with Figma Certification - Training Badge
 
 ---
 
-# 📫 Connect With Me
+## 🎯 Current Focus
 
-<p align="center">
-  <a href="mailto:rabinpant194@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/rabin-pant-6b4559358">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/rabinpant">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- Building scalable full-stack applications  
+- Strengthening backend & cloud deployment skills  
+- Preparing for internship opportunities  
 
 ---
 
-<p align="center">
-  <i>"Code is not just a language, it's how we bring ideas to life."</i> 🚀
-</p>
+> “Code is not just a language, it’s how we bring ideas to life.” 🚀
