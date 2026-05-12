@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2D79F0&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabin+Pant;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
-
 <h3 align="center">BSc (Hons) Computing Student | Aspiring Full-Stack Developer</h3>
-
 <p align="center">
   <a href="mailto:rabinpant194@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/rabin-pant-6b4559358">🔗 LinkedIn</a> •
@@ -19,6 +17,23 @@
 - ☁️ AWS Academy Certified (Cloud & ML Foundations)  
 - 🧠 Strong in OOP, REST APIs & Role-Based Systems  
 - 🌍 Based in Kathmandu, Nepal  
+
+---
+
+## 📊 Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabinpant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rabin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabinpant&theme=tokyonight&hide_border=true" alt="Rabin's GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabinpant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabinpant&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
+</p>
 
 ---
 
@@ -41,7 +56,6 @@
 ---
 
 ## 🏆 Certifications
-
 - AWS Academy – Cloud Foundations – Training Badge  
 - AWS Academy – Machine Learning Foundations – Training Badge  
 - AWS Academy – Machine Learning for Natural Language Processing – Training Badge  
@@ -53,7 +67,6 @@
 ---
 
 ## 🎯 Current Focus
-
 - Building scalable full-stack applications  
 - Strengthening backend & cloud deployment skills  
 - Preparing for internship opportunities  
