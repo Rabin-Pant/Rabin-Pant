@@ -21,7 +21,6 @@
 - 🌍 Based in Kathmandu, Nepal  
 
 ---
----
 
 ## 🛠️ Tech Stack
 
