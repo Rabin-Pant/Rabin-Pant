@@ -15,7 +15,6 @@
 - 🎓 BSc (Hons) Computing student at Islington College  
 - 💻 Passionate about Full-Stack Development & Cloud Computing  
 - ☁️ AWS Academy Certified (Cloud & ML Foundations)  
-- 🧠 Strong in OOP, REST APIs & Role-Based Systems  
 - 🌍 Based in Kathmandu, Nepal  
 
 ---
