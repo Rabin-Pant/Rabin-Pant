@@ -14,12 +14,10 @@
 
 ## 🚀 About Me
 
-- 🎓 BSc (Hons) Computing student at Islington College
-- 💻 Passionate about Full-Stack Development & Cloud Computing
+- 🎓 BSc (Hons) Computing student
+- 💻 Passionate about Full-Stack Development
 - ☁️ AWS Academy Certified (Cloud & ML Foundations)
 - 🌐 Experienced in building full-stack web apps with Java, JSP/Servlets & MySQL
-- 💳 Hands-on with payment gateway integration (Khalti & eSewa)
-- 🔒 Familiar with authentication, session management & role-based access control
 - 🎨 UI/UX design experience with Figma
 - 🌍 Based in Kathmandu, Nepal
 
